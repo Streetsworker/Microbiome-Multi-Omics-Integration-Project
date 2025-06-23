@@ -1,0 +1,26 @@
+multi-omics-analysis/
+├── README.md
+├── requirements.txt
+├── environment.yml
+├── LICENSE
+├── .gitignore
+├── data/
+│   ├── abundance.csv
+│   ├── abundance_stoolsubset.csv
+│   ├── hmp2.csv
+│   ├── marker_presence.csv
+│   └── markers2clades_DB.csv
+├── src/
+│   └── omics_analysis_enhanced.py
+├── results/
+│   ├── comprehensive_performance.csv
+│   ├── integration_comparison.png
+│   ├── model_performance_comprehensive.png
+│   ├── pathway_analysis.csv
+│   ├── pathway_analysis.png
+│   ├── 方差累积分布曲线.png
+│   └── 选择特征的方差分布.png
+├── docs/
+│   └── 统计学习与数据科学课程设计报告-黄炜.docx
+└── logs/
+    └── 运行结果.txt
